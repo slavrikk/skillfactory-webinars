@@ -57,7 +57,6 @@ src/
 │   │   └── financeapp/
 │   │       ├── model/      # Модели данных (User, Wallet, Transaction)
 │   │       ├── service/    # Сервисные классы (UserService, FinanceService)
-│   │       ├── util/       # Утилиты (FileUtil)
 │   │       ├── exception/  # Пользовательские исключения
 │   │       └── FinanceApp.java # Основной класс приложения
 │   └── resources/          # Ресурсы (пустая директория)
